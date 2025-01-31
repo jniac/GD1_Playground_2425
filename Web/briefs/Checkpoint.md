@@ -46,3 +46,6 @@ Contraintes :
   - ✅ La puissance des variables (One Variable To Rule Them All)
   - ✅ Modifier dynamiquement des matériaux
   - ✅ Déclencher une animation (Level Sequence Player)
+
+- Niagara (particle engine)
+  - ✅ Mise en place rapide d'un système de particules.

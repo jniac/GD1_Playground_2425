@@ -1,12 +1,16 @@
 # Checkpoint 
 
+Réaliser un "checkpoint" animé.
+
+<video width="640" src="assets/GD1-CheckpointDemo2.mp4" muted autoplay></video>
+
 <img width="640" src="assets/GD1-Checkpoint-1.jpg">
 
 <img width="640" src="assets/GD1-Checkpoint-2.jpg">
 
 ## Demande 
 
-Réaliser un "checkpoint" animé.
+Réaliser un "checkpoint" animé qui peut être activé ou desactivé.
 
 Contraintes : 
 - Créer des modèles 3D originaux ("static mesh" via "Modeling Mode")
@@ -14,7 +18,20 @@ Contraintes :
   - certains animés
   - certains transparent
   - certains faisant usage de masque
-- Créer une animation simple
+- Créer une animation simple d'activation incluant :
+  - des transformations spatiales (translation, rotation, scale)
+  - des animation de matériaux (via "parameter", opacité, couleur, vitesse etc.)
+- Méthodes de travail (workflow)
+  - Tous les fichiers créés doivent :
+    - être préfixés par le préfixe 3 lettres `xxx_`
+    - être contenus dans le dossier personnel `Content/Art/xxx`
+  - Il est interdit de modifier les fichiers en dehors de son dossier personnel.
+  - Le travail doit être publié sur Github (UE: Submit Content, terminal VSCode: `git pull` / `git push`)
+
+Critères d'évaluation :
+- Workflow (préfixe, dossier de travail, git / github) 7/20
+- Implication technique (modélisation, matériaux, animation, blueprint) 7/20
+- Qualité artistique (design, couleur, motion design) 7/20
 
 ## Notions abordées :
 
@@ -37,8 +54,9 @@ Contraintes :
   - ✅ Dessiner / Composer
   - ✅ Exporter PNG
 
-- Timeline Unreal (Level Sequencer)
-  - ✅ Animation / interpolation
+- Animation dans la timeline (Level Sequencer)
+  - ✅ Manipulation images clés (création)
+  - ✅ Courbes de transition
 
 - Blueprints
   - ✅ Modifications basiques des composants (visibilité, position, rotation)

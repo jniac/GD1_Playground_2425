@@ -8,11 +8,11 @@ Réaliser un "checkpoint" animé.
 
 <img width="640" src="assets/GD1-Checkpoint-2.jpg">
 
-## Demande 
+## ⚡️ Demande 
 
 Réaliser un "checkpoint" animé qui peut être activé ou desactivé.
 
-Contraintes : 
+### 📌 Contraintes : 
 - Créer des modèles 3D originaux ("static mesh" via "Modeling Mode")
 - Créer des matériaux originaux, animés, dont :
   - certains animés
@@ -26,14 +26,16 @@ Contraintes :
     - être préfixés par le préfixe 3 lettres `xxx_`
     - être contenus dans le dossier personnel `Content/Art/xxx`
   - Il est interdit de modifier les fichiers en dehors de son dossier personnel.
-  - Le travail doit être publié sur Github (UE: Submit Content, terminal VSCode: `git pull` / `git push`)
+  - Le travail doit être publié sur Github 
+    - UE Editor: Submit Content
+    - VSCode terminal: `git pull` / `git push`
 
-Critères d'évaluation :
-- Workflow (préfixe, dossier de travail, git / github) 7/20
-- Implication technique (modélisation, matériaux, animation, blueprint) 7/20
-- Qualité artistique (design, couleur, motion design) 7/20
+### 🎯 Critères d'évaluation :
+- Workflow (préfixe, dossier de travail, git / github) 🔹 7/20
+- Implication technique (modélisation, matériaux, animation, blueprint) 🔹 7/20
+- Qualité artistique (design, couleur, motion design) 🔹 7/20
 
-## Notions abordées :
+## 📚 Notions abordées :
 
 - Concept généraux
   - ✅ Transform Relative / World

@@ -1,6 +1,7 @@
 info: 
   title: Évaluation 0
   date: 2021-09-17
+  coefficient: 1
   comment: >-
     Pré-rendu, test du workflow (git, GitHub).
 

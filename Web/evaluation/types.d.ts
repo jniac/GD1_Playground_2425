@@ -12,3 +12,17 @@ export type Promotion = {
   }
   students: Student[]
 }
+
+export type EvaluationInfo = {
+  title: string
+  date: string
+  comment: string
+  coefficient: number
+}
+
+export type SimpleEvaluation = {
+  prefix: string
+  name: string
+  grade: number
+  comment: string
+}

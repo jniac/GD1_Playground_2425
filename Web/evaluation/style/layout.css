@@ -1,0 +1,24 @@
+
+.layer {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.thru {
+  /* `!important` is necessary because of conflicts with other "thru" implementations.  */
+  /* May be removed in the future. */
+  pointer-events: none !important;
+}
+
+/* .pointer-events-none is a tailwind class */
+.thru > *:not(.thru, .pointer-events-none) {
+  pointer-events: auto;
+}
+
+.row {
+  height: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

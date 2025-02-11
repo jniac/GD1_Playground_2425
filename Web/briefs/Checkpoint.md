@@ -17,7 +17,7 @@ Réaliser un "checkpoint" animé qui peut être activé ou desactivé.
 - Créer des matériaux originaux, animés, dont :
   - certains animés
   - certains transparent
-  - certains faisant usage de masque
+  - (optionel) certains faisant usage de masque 
 - Créer une animation simple d'activation incluant :
   - des transformations spatiales (translation, rotation, scale)
   - des animation de matériaux (via "parameter", opacité, couleur, vitesse etc.)

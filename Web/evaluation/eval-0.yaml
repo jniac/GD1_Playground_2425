@@ -1,0 +1,92 @@
+info: 
+  title: Évaluation 0
+  date: 2021-09-17
+  coefficient: 1
+  comment: >-
+    Pré-rendu, test du workflow (git, GitHub).
+
+evaluations:
+  - prefix: nil
+    name: AUGÉ-DEDIEU Nil
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: mzw
+    name: DE BRITO Roméo
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: lec
+    name: LECLERC Enzo
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: apo
+    name: SAUVAJOT Apolline
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: drk
+    name: BRASSEUR Lola
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: cmd
+    name: DEZALAY Romane
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: lma
+    name: MAGNON--ERSIN Loane
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: end
+    name: WANG Edmond
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: sun
+    name: CORTES Maéline
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: bee
+    name: GALTIER Ambre
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: clm
+    name: MARTY Clémence
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: emd
+    name: DAVID Marine
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: ian
+    name: GARESCHÉ Ianis
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
+  - prefix: val
+    name: RAINIERI Valentin
+    grade: 14
+    comment: >-
+      Rendu dans les temps.
+
